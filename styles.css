@@ -89,7 +89,6 @@
     .github { background: rgba(24,23,23,0.7); }
     .discord { background: rgba(114,137,218,0.7); }
     .twitter { background: rgba(29,161,242,0.7); }
-    .linkedin { background: rgba(10,102,194,0.7); }
 
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(20px); }
