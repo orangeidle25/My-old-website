@@ -19,5 +19,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
  
 function discordpopup() {
-  alert("Add me on Discord, Username: orangeidle25");
+  alert("Add me on Discord; orangeidle25");
 }
